@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Konstantin Yegupov&#39;s blog</title>
-    <link>http://kyegupov.github.io/post/</link>
+    <link>https://kyegupov.github.io/post/</link>
     <description>Recent content in Posts on Konstantin Yegupov&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 23 Oct 2016 22:04:46 +0100</lastBuildDate>
-    <atom:link href="http://kyegupov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://kyegupov.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo first post</title>
-      <link>http://kyegupov.github.io/post/hugo-first-post/</link>
+      <link>https://kyegupov.github.io/post/hugo-first-post/</link>
       <pubDate>Sun, 23 Oct 2016 22:04:46 +0100</pubDate>
       
-      <guid>http://kyegupov.github.io/post/hugo-first-post/</guid>
+      <guid>https://kyegupov.github.io/post/hugo-first-post/</guid>
       <description>&lt;p&gt;This blog is generated with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; - apparently, it&amp;rsquo;s spiffy.&lt;/p&gt;
 </description>
     </item>
