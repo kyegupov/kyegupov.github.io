@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blog</title>
+    <link>http://kyegupov.github.on/</link>
+    <description>Recent content on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Oct 2016 22:04:46 +0100</lastBuildDate>
+    <atom:link href="http://kyegupov.github.on/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo first post</title>
+      <link>http://kyegupov.github.on/post/hugo-first-post/</link>
+      <pubDate>Sun, 23 Oct 2016 22:04:46 +0100</pubDate>
+      
+      <guid>http://kyegupov.github.on/post/hugo-first-post/</guid>
+      <description>&lt;p&gt;This blog is generated with &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; - apparently, it&amp;rsquo;s spiffy.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
